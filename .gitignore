@@ -1,0 +1,4 @@
+data/
+images/
+__pycache__/
+detector_architectures/
